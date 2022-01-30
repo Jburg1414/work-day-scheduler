@@ -5,6 +5,8 @@ This is a work day scheduler with individual time slots. The time slots start at
 
 This was built using HTML, CSS, and Javascript. jQuery has also been used in he JavaScript file along with Moment.js to get the current time of day and the date. 
 
+https://jburg1414.github.io/work-day-scheduler/
+
 ## Usage
 
 ![Initial Homepage](assets/images/homepage.png)
